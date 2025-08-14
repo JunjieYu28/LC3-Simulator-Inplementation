@@ -1,0 +1,10 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	DATA                    3011
+//	NUM1                    3012
+//	NUM1_PTR                3013
+//	SAVE1                   3014
+//	SAVE2                   3016
+//	SAVE2_PTR               3015
+//	SKIP                    300D
+//	SUBROUTINE              300F
